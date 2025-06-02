@@ -77,3 +77,12 @@ Content      |    **Cell**   |     Cell     |
 |♖|♘|♗|♕|♔|  |  |♖|
 ```
 
+> [!NOTE]- 标题
+> content
+
+>[!info]+ information
+>	这里是关于`info`的测试
+
+>[!example] 例子
+>例子例子
+
