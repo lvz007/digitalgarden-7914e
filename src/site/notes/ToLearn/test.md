@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ToLearn/test/"}
 ---
 
+
 | Just                               | a   | normal       | table |
 | ---------------------------------- | --- | ------------ | ----- |
 | Use `<` to merge cells to the left | <   | Merged cell! | <     |
